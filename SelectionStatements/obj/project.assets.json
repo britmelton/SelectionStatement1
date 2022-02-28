@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\britt\\reposTC\\SelectionStatements\\SelectionStatements\\SelectionStatements.csproj",
+      "projectUniqueName": "C:\\Users\\britt\\reposTC\\numberGuessingGame\\SelectionStatements\\SelectionStatements.csproj",
       "projectName": "SelectionStatements",
-      "projectPath": "C:\\Users\\britt\\reposTC\\SelectionStatements\\SelectionStatements\\SelectionStatements.csproj",
+      "projectPath": "C:\\Users\\britt\\reposTC\\numberGuessingGame\\SelectionStatements\\SelectionStatements.csproj",
       "packagesPath": "C:\\Users\\britt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\britt\\reposTC\\SelectionStatements\\SelectionStatements\\obj\\",
+      "outputPath": "C:\\Users\\britt\\reposTC\\numberGuessingGame\\SelectionStatements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\britt\\AppData\\Roaming\\NuGet\\NuGet.Config",
