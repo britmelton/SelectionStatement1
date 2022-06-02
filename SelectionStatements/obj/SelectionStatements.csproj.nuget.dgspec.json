@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\britt\\reposTC\\numberGuessingGame\\SelectionStatements\\SelectionStatements.csproj": {}
+    "C:\\Users\\britt\\reposTC\\7. Selection Statements Exercises\\numberGuessingGame\\SelectionStatements\\SelectionStatements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\britt\\reposTC\\numberGuessingGame\\SelectionStatements\\SelectionStatements.csproj": {
+    "C:\\Users\\britt\\reposTC\\7. Selection Statements Exercises\\numberGuessingGame\\SelectionStatements\\SelectionStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\britt\\reposTC\\numberGuessingGame\\SelectionStatements\\SelectionStatements.csproj",
+        "projectUniqueName": "C:\\Users\\britt\\reposTC\\7. Selection Statements Exercises\\numberGuessingGame\\SelectionStatements\\SelectionStatements.csproj",
         "projectName": "SelectionStatements",
-        "projectPath": "C:\\Users\\britt\\reposTC\\numberGuessingGame\\SelectionStatements\\SelectionStatements.csproj",
+        "projectPath": "C:\\Users\\britt\\reposTC\\7. Selection Statements Exercises\\numberGuessingGame\\SelectionStatements\\SelectionStatements.csproj",
         "packagesPath": "C:\\Users\\britt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\britt\\reposTC\\numberGuessingGame\\SelectionStatements\\obj\\",
+        "outputPath": "C:\\Users\\britt\\reposTC\\7. Selection Statements Exercises\\numberGuessingGame\\SelectionStatements\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\britt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

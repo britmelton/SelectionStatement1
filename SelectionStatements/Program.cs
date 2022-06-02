@@ -17,13 +17,14 @@ namespace SelectionStatements
             #endregion
             var r = new Random();
             var favNumber = r.Next(1,10);
+            var counter = 0;
 
-            bool correct = false;   
+            bool correct = false;
             while (!correct)
-            {  
+            {
                 Console.WriteLine("\nGuess my favorite number:");
                 var userInput = int.Parse(Console.ReadLine());
-
+                counter++;
                 if (userInput < favNumber)
                 {
                     Console.WriteLine("\ntoo low");
@@ -32,12 +33,23 @@ namespace SelectionStatements
                 {
                     Console.WriteLine("\ntoo high");
                 }
-                else 
+                else
                 {
                     correct = true;
-                    Console.WriteLine("\nyou got it!"); 
+                    Console.WriteLine("\nyou got it!");                   
                 }
-            }   
+
+                if (!correct)
+                {
+                    Console.WriteLine($"You've guessed {counter} time{(counter == 1 ? "" : "s")}");
+                }
+                else
+                {
+                    Console.WriteLine($"\nyou got the correct answer in {counter} guess{(counter == 1 ? "" : "es")}");
+                }
+
+            }
+            
         }
     }
 }
